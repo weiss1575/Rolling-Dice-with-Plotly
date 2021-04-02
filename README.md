@@ -5,3 +5,6 @@ This program allows you to roll a set of dice and visualize the results in a his
 - The default number of rolls in 100,000. To change the number of rolls, put in the desired number in line 23.   
 ## How to Run
 Simply clone this repo and type python rolling_dice.py
+
+## Sample Result
+![Alt text](rolling_dice.png)
